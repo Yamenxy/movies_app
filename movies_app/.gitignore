@@ -1,0 +1,16 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+.build/
+flutter_*.png
+ios/Pods/
+**/build/
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.lock
+*.log
